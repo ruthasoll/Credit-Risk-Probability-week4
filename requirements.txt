@@ -1,0 +1,16 @@
+pandas
+numpy
+scikit-learn
+xverse
+mlflow
+pytest
+fastapi
+uvicorn
+pydantic
+imbalanced-learn
+xgboost
+lightgbm
+joblib
+category_encoders
+flake8
+httpx
